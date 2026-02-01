@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Jude || Judexify
 
-<!--
-**judexify/judexify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer
 
-Here are some ideas to get you started:
+Passionate about building FRONTEND WEB APPS with a clear goal - becoming a WEB3 DEVELOPER.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+- 💻 Frontend developer (HTML, CSS, Javascript)
+- 🌱 Currently learning Javascript
+- 🤝 Open to collaboration on Web & Web3 projects
+- 🌍 Portfolio: [https://your-portfolio-link](https://github.com/judexify)
+
+---
+
+## 🔗 Connect With Me
+
+[Twitter](https://twitter.com/judexify)   
+[Email](mailto:cryptoandtech@outlook.com)
+
+---
+
+## 🛠️ Languages & Tools
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=javascript)
+
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=JUDEXIFY&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUDEXIFY&layout=compact)
