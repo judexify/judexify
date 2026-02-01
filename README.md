@@ -1,5 +1,7 @@
 # Hi 👋 I'm Jude || Judexify
 
+![description](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3NG52bXB3cWM1eWxwb213endlZnM5M2t2cno1cHh5N2p1ejh0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYC0LajbaPoEADu/giphy.gif)
+
 ### 🚀 Frontend Developer
 
 Passionate about building FRONTEND WEB APPS with a clear goal - becoming a WEB3 DEVELOPER.
@@ -11,7 +13,7 @@ Passionate about building FRONTEND WEB APPS with a clear goal - becoming a WEB3 
 - 💻 Frontend developer (HTML, CSS, Javascript)
 - 🌱 Currently learning Javascript
 - 🤝 Open to collaboration on Web & Web3 projects
-- 🌍 Portfolio: [https://your-portfolio-link](https://github.com/judexify)
+- 🌍 Portfolio: [https://github.com/judexify]
 
 ---
 
@@ -31,8 +33,3 @@ Passionate about building FRONTEND WEB APPS with a clear goal - becoming a WEB3 
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JUDEXIFY&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUDEXIFY&layout=compact)
