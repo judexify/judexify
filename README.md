@@ -11,7 +11,7 @@ Passionate about building FRONTEND WEB APPS with a clear goal - becoming a WEB3 
 ## 🙋‍♂️ About Me
 
 - 💻 Frontend developer (HTML, CSS, Javascript)
-- 🌱 Currently learning Javascript
+- 🌱 Currently learning reactJS
 - 🤝 Open to collaboration on Web & Web3 projects
 - 🌍 Portfolio: [https://github.com/judexify]
 
