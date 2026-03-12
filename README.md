@@ -29,6 +29,7 @@ Passionate about building FRONTEND WEB APPS with a clear goal - becoming a WEB3 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=javascript)
+![REACT](https://skillicons.dev/icons?i=react)
 
 
 ---
